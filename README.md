@@ -78,7 +78,7 @@ from `EFI/OC/Kexts` folder and `config.plist` then replace with one that work fo
 * Processor: `8th gen Core i5-8250U (Kaby Lake R)`
 * CPUID: `Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz`
 * iGPU: `intel UHD Graphic 620`
-* dGPU: `AMD Radeon 535 2GB DDR5`
+* dGPU: ~~`AMD Radeon 535 2GB DDR5`~~
 * Ram: `12gb 4+8 @ 2400 MHz`
 * DRIVE1 HDD: `WDC WD10SPZX-24Z10T0 (WD-WX41A38DF1JN) (SATA)`
 * DRIVE2 SSD: `Drive ADATA SX6000NP (2I1320041166        _00000001.) (NVMe)`
@@ -86,7 +86,7 @@ from `EFI/OC/Kexts` folder and `config.plist` then replace with one that work fo
 * Trackpad connection type: `I2C`
 * Audio: `Realtek ALC236 @ Intel Sunrise Point-LP PCH - High Definition Audio Controller [C1]	(PCI)`
 * Audio HDMI: `Intel Kaby Lake HDMI @ Intel Sunrise Point-LP PCH - High Definition Audio Controller [C1]	(PCI)`
-* Ethernet: `No connector`
+* Ethernet: ~~`No connector`~~
 * WLAN: `Intel Dual Band Wireless-AC 3165 AC HMC WiFi Adapter	(PCI)`
 
 ## Links/Guides
